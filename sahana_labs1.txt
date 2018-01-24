@@ -25,7 +25,7 @@ UNIX COMMANDS:
 23. :| to run the shell commands like :|dir, :||s
 24: d2w: to delete 2 words
 25. :r : filename will insert the content into the current file
-26. R: toreplace more than one character
+26. R: to replace more than one character
 27. y- operator to copy text using v virtual mode and p to paste it
 28. o: opens a line below cursor
 29. O: opens a line above cursor
@@ -35,6 +35,9 @@ UNIX COMMANDS:
 33 y: operator yanks(copies) text p, puts(pastes) it 
 34. R: replace  mode until esc is pressed
 35. ctrl+w: to jump from one window to another
+36. ? forward search
+37. \backward search to find next occurence and N to search in opposite direction
+
 
 
 
