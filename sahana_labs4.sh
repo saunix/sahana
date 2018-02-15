@@ -1,4 +1,3 @@
-##grades of a student
 echo "enter the marks"
 read m
 if [ $m -gt 90 ] 
